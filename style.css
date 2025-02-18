@@ -1,0 +1,53 @@
+.pozadina {
+    background-image: url("pozadina.png");
+    height: 80vh;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+.ponuda
+{    a:link {
+        color: purple;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      a:active {
+        color: gray;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+    }
+
+.linkovi{
+    a:link {
+        color: purple;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      a:active {
+        color: gray;
+        background-color: transparent;
+        text-decoration: underline;
+      } 
+}
